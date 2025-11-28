@@ -4,7 +4,7 @@ import { MessageCircle } from "lucide-react";
 const FloatingWhatsApp = () => {
   return (
     <a
-      href="https://wa.me/26775715238"
+      href="https://wa.me/26774320023"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 animate-fade-in-scale"
