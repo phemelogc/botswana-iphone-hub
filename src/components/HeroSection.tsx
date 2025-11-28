@@ -39,7 +39,7 @@ const HeroSection = () => {
                 className="bg-accent text-accent-foreground hover:bg-accent/90 text-lg px-8 py-6 gold-glow transition-smooth"
               >
                 <a
-                  href="https://wa.me/26775715238"
+                  href="https://wa.me/26774320023"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2"
