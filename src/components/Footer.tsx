@@ -49,7 +49,7 @@ const Footer = () => {
                 className="flex items-center gap-2 text-primary-foreground/80 hover:text-accent transition-smooth"
               >
                 <MessageCircle className="w-5 h-5" />
-                +267 7571 5238
+                +267 7432 0023
               </a>
               <p className="text-primary-foreground/60 text-sm">
                 Monday - Saturday: 8:00 AM - 8:00 PM<br />
