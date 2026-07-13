@@ -59,28 +59,28 @@ const ContactSection = () => {
               </div>
             </Card>
 
-            <Card className="p-8 elegant-shadow border-border bg-gradient-to-br from-primary to-accent flex flex-col items-center justify-center text-center space-y-6 animate-fade-in" style={{ animationDelay: "0.1s" }}>
-              <MessageCircle className="w-16 h-16 text-primary-foreground" />
+            <Card className="p-8 elegant-shadow border-border bg-gradient-to-br from-slate-900 to-amber-600 dark:from-zinc-950 dark:to-zinc-900 dark:border-accent/30 dark:shadow-glow flex flex-col items-center justify-center text-center space-y-6 animate-fade-in" style={{ animationDelay: "0.1s" }}>
+              <MessageCircle className="w-16 h-16 text-white" />
               <div className="space-y-2">
-                <h3 className="text-2xl font-bold text-primary-foreground">
+                <h3 className="text-2xl font-bold text-white">
                   Chat with us on WhatsApp
                 </h3>
-                <p className="text-primary-foreground/80">
+                <p className="text-white/80">
                   The fastest way to get your questions answered and find your perfect iPhone.
                 </p>
               </div>
               <Button
                 asChild
                 size="lg"
-                className="bg-background text-foreground hover:bg-background/90 text-lg px-8 py-6 w-full max-w-xs shadow-xl transition-smooth"
+                className="bg-white text-slate-900 hover:bg-white/90 text-lg px-8 py-6 w-full max-w-xs shadow-xl transition-smooth"
               >
                 <a
-                  href="https://wa.me/26775715238"
+                  href="https://wa.me/26774320023"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2"
                 >
-                  <MessageCircle className="w-5 h-5" />
+                  <MessageCircle className="w-5 h-5 fill-slate-900/10" />
                   Start Chat
                 </a>
               </Button>
